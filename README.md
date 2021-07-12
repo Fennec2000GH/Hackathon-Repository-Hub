@@ -1,7 +1,21 @@
 # Hackathon-Repository-Hub
 List of repository links and brief descriptions of all hackathon projects I have contributed to
 
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+## RU Hacks
+
+*04/30/2021 - 05/02/2021*
+
+*Ryerson University*
+
+### PowerSearch
+
+*Best Use of Datastax Astra Award *
+
+This Discord bot is equipped with webscraping, Google search, topic suggestion, and other NLP abilities that helps you easily surf the web without leaving Discord chat.
+
+### https://github.com/Fennec2000GH/PowerSearch
 
 ## AngelHacks 2.0 
 
@@ -26,7 +40,6 @@ https://github.com/Fennec2000GH/angelhacks2
 Using Unity Game Engine and Google DialogFlow, DocVR allows patients to seek advice from a virtual reality doctor trained with common phrases in clinical settings. I personally worked on logging the doctor's speech into a CockroachDB distributed database, with topic sorting capabilities using NLP algorithms from NLTK. 
 
 ### https://github.com/Fennec2000GH/docvr
-
 
 ## EconHacks 2021
 
