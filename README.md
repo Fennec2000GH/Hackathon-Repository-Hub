@@ -46,7 +46,7 @@ https://github.com/Fennec2000GH/TournamentMaster
 
 *01/29/2021  - 01/31/2021*
 
-### Sentry
+### Sentinel
 
 *InfoTech Challenge: Most innovative use of a public dataset for the public good*
 
