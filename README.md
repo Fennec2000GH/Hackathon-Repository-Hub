@@ -1,4 +1,7 @@
 # Hackathon-Repository-Hub
+
+## You can see a complete collection of events hosted by DevPost by visiting my [DevPost Portfolio](https://www.devpost.com/Fennec2000GH). The list below is incomplete and only showcases some of the major contests.
+
 List of repository links and brief descriptions of all hackathon projects I have contributed to
 
 ----------------------------------------------------------------------------------------------------
